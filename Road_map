@@ -6,7 +6,6 @@
 - [X] Create the Habit Tracker View
 - [X] Create the Calendar View
 - [X] Create the To-Do lists View
-- [ ] Import CSS fonts, colors, and borders
-- [ ] Test the Habit Tracker, To-Do lists, Calendar View
-- [ ] Find errors and bug in code
-- [ ] Fix the bugs and errors
+- [X] Test the Habit Tracker, To-Do lists, Calendar View
+- [X] Find errors and bug in code
+- [X] Fix the bugs and errors
